@@ -11,7 +11,32 @@ El objetivo de la plataforma es que cada ciudadano tenga a la mano toda su infor
 
 
 
-}
+
+
+![Summer Hack (4)](https://user-images.githubusercontent.com/9124597/127756851-c8627116-f177-4198-966d-9003016d2060.png)
+
+# Nombre del Proyecto
+
+### Descripción del Proyecto a Entregar (Corta)
+
+### Link al Tiktok
+
+### Diagrama de Azure
+
+### SLA Compuesto
+
+### TCO 3 años y Precio Total por mes
+
+### Tiempo sin disponibilidad a un año
+
+### Qué te pareció el evento
+
+
+
+
+
+
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
