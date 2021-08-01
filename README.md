@@ -7,7 +7,7 @@ El objetivo de la plataforma es que cada ciudadano tenga a la mano toda su infor
 
 
 
-![Preview](https://raw.githubusercontent.com/username/project/master/image-path/image.png)
+![Preview](https://github.com/Roamingeekcv/Hackathon/blob/main/Captura%20de%20Pantalla%202021-08-01%20a%20la(s)%209.41.37.png)
 
 
 
