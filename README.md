@@ -6,6 +6,12 @@
 El objetivo de la plataforma es que cada ciudadano tenga a la mano toda su informacion relacionada a su salud y en cuanto sea necesario los médicos puedan tener  todo su historial clínico para un tratamiento oportuno y eficaz. 
 
 
+
+![Preview](https://raw.githubusercontent.com/username/project/master/image-path/image.png)
+
+
+
+}
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
